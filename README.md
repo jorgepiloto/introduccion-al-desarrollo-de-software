@@ -25,6 +25,8 @@ En esta sección se revisará la sintaxis básica de Python, se explicarán los
 conceptos de variables, bucles, condicionales y funciones, y se mostrarán algunos
 ejemplos de su uso en la resolución de problemas de ingeniería.
 
+![Logo the Python](https://www.python.org/static/img/python-logo.png)
+
 ### 3. Ejemplo I: calculadora de temperatura, presión y densidad para el modelo
 ISA (30 min)
 
