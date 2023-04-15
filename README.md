@@ -1,5 +1,7 @@
 # Introducción al desarrollo de software
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgepiloto/introduccion-al-desarrollo-de-software/main)
+
 Este documento es una guía de las sesiones que se llevarán a cabo en un curso
 de introducción al desarrollo de software, enfocado en el uso de Python para
 resolver problemas de ingeniería. El curso consta de dos sesiones, donde se
