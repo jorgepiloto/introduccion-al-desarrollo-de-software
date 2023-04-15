@@ -16,6 +16,8 @@ En esta sección se dará una breve introducción sobre el uso de Python en la
 ingeniería y se presentarán algunos ejemplos de problemas que pueden ser
 resueltos con Python.
 
+![El ecosistema de Python](https://jupytearth.org/_images/python-stack.png)
+
 ### 2. Sintaxis de Python: variables, bucles, condicionales y funciones, (30
 min)
 
