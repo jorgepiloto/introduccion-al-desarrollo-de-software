@@ -1,6 +1,6 @@
 # Software development 101
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgepiloto/introduccion-al-desarrollo-de-software/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgepiloto/software-development-101/main)
 
 This document is a guide to the sessions that will take place in a course on
 software development, focused on using Python to solve engineering problems. The
