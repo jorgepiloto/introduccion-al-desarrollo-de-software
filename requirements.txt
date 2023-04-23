@@ -1,2 +1,4 @@
+ipytest
 matplotlib
 numpy
+pytest
