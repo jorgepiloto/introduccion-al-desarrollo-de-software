@@ -1,84 +1,75 @@
-# Introducción al desarrollo de software
+# Software development 101
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgepiloto/introduccion-al-desarrollo-de-software/main)
 
-Este documento es una guía de las sesiones que se llevarán a cabo en un curso
-de introducción al desarrollo de software, enfocado en el uso de Python para
-resolver problemas de ingeniería. El curso consta de dos sesiones, donde se
-abordarán temas que van desde la sintaxis básica de Python hasta la creación de
-APIs y microservicios.
+This document is a guide to the sessions that will take place in a course on
+software development, focused on using Python to solve engineering problems. The
+course consists of two sessions, covering topics ranging from basic Python
+syntax to the creation of APIs and microservices. First session
 
-## Primera sesión
+## Python in Engineering (5 min)
 
-### 1. Python en la ingeniería (5 min)
+In this section, a brief introduction will be given on the use of Python in
+engineering, and some examples of problems that can be solved with Python will
+be presented.
 
-En esta sección se dará una breve introducción sobre el uso de Python en la
-ingeniería y se presentarán algunos ejemplos de problemas que pueden ser
-resueltos con Python.
+![The Python Ecosystem](https://camo.githubusercontent.com/96774b842f21fc54a20bc1b780a98f610bfd0cc3a6873943a6a0cd7f3785252a/68747470733a2f2f6a7570797465617274682e6f72672f5f696d616765732f707974686f6e2d737461636b2e706e67)
 
-![El ecosistema de Python](https://jupytearth.org/_images/python-stack.png)
+## Python Syntax: Variables, Loops, Conditionals, and Functions (30 min)
 
-### 2. Sintaxis de Python: variables, bucles, condicionales y funciones, (30
-min)
+In this section, basic Python syntax will be reviewed, and the concepts of
+variables, loops, conditionals, and functions will be explained, along with some
+examples of their use in solving engineering problems.
 
-En esta sección se revisará la sintaxis básica de Python, se explicarán los
-conceptos de variables, bucles, condicionales y funciones, y se mostrarán algunos
-ejemplos de su uso en la resolución de problemas de ingeniería.
+![The Python Logo](https://camo.githubusercontent.com/edbf0a154fb266da96cd1b5379eec350cff7ef072ba42ee003c713c321cb0ba8/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f696d672f707974686f6e2d6c6f676f2e706e67)
 
-![Logo the Python](https://www.python.org/static/img/python-logo.png)
+## Example I: Temperature, Pressure, and Density Calculator for the ISA Model (30 min)
 
-### 3. Ejemplo I: calculadora de temperatura, presión y densidad para el modelo
-ISA (30 min)
+In this example, the use of Python syntax to create a calculator for
+temperature, pressure, and density for the ISA (International Standard
+Atmosphere) model will be demonstrated.
 
-En este ejemplo se mostrará cómo usar la sintaxis de Python para crear una
-calculadora de temperatura, presión y densidad para el modelo ISA (Atmósfera
-Estándar Internacional).
+## Example II: Using NumPy for Vectorizing Calculations and Matplotlib for Visualization (20 min)
 
-### 4. Ejemplo II: usando NumPy para vectorizar los cálculos y matplotlib para
-visualizarlos (20 min)
+In this example, the NumPy package will be introduced for performing vectorized
+calculations, and the matplotlib package will be used for visualizing the
+results of the calculations.
 
-En este ejemplo se introducirá el paquete NumPy para realizar cálculos
-vectorizados, y el paquete matplotlib para visualizar los resultados de los
-cálculos.
+## Testing and Continuous Integration (20 min)
 
-### 5. Testing e integración continua (20 min)
+In this section, the importance of testing code will be discussed, and tools for
+automating tests, such as Pytest and Travis CI, will be presented.
 
-En esta sección se hablará sobre la importancia de realizar pruebas en el código
-y se presentarán herramientas para automatizar las pruebas, como Pytest y
-Travis CI.
+## Example III: Using Pytest to Verify the ISA Model (15 min)
 
-### 6. Ejemplo III: usando Pytest para verificar el modelo ISA (15 min)
+In this example, Pytest will be used to verify the proper functioning of the
+calculator created in Example I.
 
-En este ejemplo se mostrará cómo usar Pytest para verificar el correcto
-funcionamiento de la calculadora creada en el Ejemplo I.
+## Second session
 
-## Segunda sesión
+### Object-Oriented Programming (5 min)
 
-### 1. Programación orientada a objectos (5 min)
+In this section, the concept of object-oriented programming and its importance
+in software development will be explained.
 
-En esta sección se explicará el concepto de programación orientada a objetos y su
-importancia en el desarrollo de software.
+### Example I: Class for the ISA Model (30 min)
 
-### 2. Ejemplo I: clase para el modelo ISA (30 min)
+In this example, a class for the ISA model will be created, which will
+encapsulate the calculation logic and make it easier to use in different parts
+of the code.
 
-En este ejemplo se creará una clase para el modelo ISA, lo que permitirá
-encapsular la lógica de cálculo y facilitar su uso en diferentes partes del
-código.
+### Example II: Modifying Class Operators (30 min)
 
-### 3. Ejemplo II: modificando los operadores de una clase (30 min)
+In this example, the modification of class operators will be demonstrated to
+enable mathematical operations between class instances.
 
-En este ejemplo se mostrará cómo modificar los operadores de una clase para
-poder realizar operaciones matemáticas entre instancias de la clase.
+### Modern Software Development: APIs, Containers, and Microservices (10 min)
 
-### 4. El desarrollo de sofware moderno: APIs, contenedores y microservicios (10
-min)
+In this section, modern software development and the technologies that make it
+possible, such as APIs, containers, and microservices, will be discussed.
 
-En esta sección se hablará sobre el desarrollo de software moderno y las
-tecnologías que lo hacen posible, como las APIs, los contenedores y los
-microservicios.
+### Example III: Creating a REST API for the ISA Model (45 min)
 
-### 5. Ejemplo III: Creando una API rest para el modelo ISA (45 min) 
-
-En este ejemplo se creará una API rest para el modelo ISA, lo que permitirá su
-uso desde otras aplicaciones y servicios. Se utilizarán las tecnologías Flask y
-Docker para implementar la API.
+In this example, a REST API for the ISA model will be created, enabling its use
+from other applications and services. The Flask and Docker technologies will be
+used to implement the API.
