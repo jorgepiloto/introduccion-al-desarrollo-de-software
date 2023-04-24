@@ -39,11 +39,15 @@ results of the calculations.
 
 In this section, the importance of testing code will be discussed, and tools for
 automating tests, such as Pytest and Travis CI, will be presented.
+ 
+![CI CD](https://hum-soft.com/blog/wp-content/uploads/2021/04/CI-CD-graphic-1.png)
 
 ## Example III: Using Pytest to Verify the ISA Model (15 min)
 
 In this example, Pytest will be used to verify the proper functioning of the
 calculator created in Example I.
+
+![Pytest logo](https://res.cloudinary.com/practicaldev/image/fetch/s---dy84CM3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ls1nn7bpt6xfxtm6vbam.png)
 
 ## Second session
 
